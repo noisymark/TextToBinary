@@ -1,0 +1,3 @@
+<div class="text-center footer-text">
+&copy; <?php echo date('Y'); ?> <a target="_blank" style="text-decoration:none;color:white;" href="http://markopavlovic.tk">Marko Pavlović</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="https://github.com/noisymark"><img src="components/img/github.png" height="30px" width="30px" alt=""></a>&nbsp;&nbsp;<a target="_blank" href="https://instagram.com/marko_pavlovic01"><img src="components/img/instagram.webp" height="30px" width="30px" alt=""></a>
+</div>
